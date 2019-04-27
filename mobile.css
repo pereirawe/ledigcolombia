@@ -1,0 +1,20 @@
+@media screen and (max-width: 768px) {
+    .mo-hide {
+        display: none;
+    }
+    #jumbotrom_title .col-md-6 {
+        margin-top: 20vh;
+    }
+    .three-box {
+        margin-bottom: 20px;
+    }
+    .three-box p {
+        min-height: inherit;
+    }
+    #title_asesoria {
+        padding: 35% 0%;
+    }
+    #title_estudio {
+        padding: 30% 0%;
+    }
+}

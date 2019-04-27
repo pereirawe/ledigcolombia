@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 110%;
+    font-weight: 300;
+    line-height: 1.75;
+}
+
+p {
+    font-size: 27px;
+}
+
+table {
+    font-size: 22px;
+}
+
+ol,
+ul {
+    font-size: 22px;
+}
+
+header {
+    min-height: 100vh;
+    background: url('./images/baylights.jpeg');
+    background: linear-gradient(45deg, rgba(0, 0, 0, .0), rgba(0, 0, 0, .4), rgba(0, 0, 0, .4), rgba(0, 0, 0, .0)), url('./images/baylights.jpeg');
+    background: linear-gradient(45deg, rgba(0, 31, 140, .5), rgba(0, 169, 42, .5), rgba(239, 178, 0, .5), rgba(255, 14, 0, .5)), url('./images/baylights.jpeg');
+    background: linear-gradient(45deg, rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url('./images/baylights.jpeg');
+    background: url('./images/baylights.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-attachment: fixed;
+}
+
+#jumbotrom_title .col-md-6 {
+    text-align: center;
+    margin-top: 45vh;
+    color: #585454;
+}
+
+#jumbotrom_title img {
+    background: #ffffff;
+    margin-bottom: 60px;
+    padding: 50px;
+    border-radius: 15px;
+    max-width: 90%;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, .3);
+}
+
+#jumbotrom_title h1 {
+    text-shadow: 3px 3px 20px rgba(0, 0, 0, .3);
+    color: #ffffff;
+    color: rgba(0, 31, 140, 1);
+    ;
+}
+
+nav img {
+    height: 50px;
+}
+
+.three-box {
+    padding: 20px;
+    background: #ffffff;
+    /*border-radius: 15px;*/
+    box-shadow: 4px 4px 7px rgba(0, 0, 0, .2);
+}
+
+.three-box h3 {
+    min-height: 70px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.three-box p {
+    min-height: 266px
+}
+
+.navbar-light .navbar-nav .nav-link {}
+
+.nav-item .active {}
+
+#logos {
+    text-align: center;
+}
+
+#logos>a {
+    height: 50px;
+    display: inline-block;
+}
+
+#logos .logo {
+    height: 70px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#logos .lg_onac {
+    height: 90px;
+}
+
+#why_table {
+    width: 100%;
+}
+
+#why_table td {
+    text-align: center;
+}
+
+#why_table th,
+#why_table td {
+    border-bottom: 1px solid #fff;
+    padding: 7px;
+}
+
+footer {
+    background: rgba(0, 31, 140, 1);
+    color: #ffffff;
+}
+
+.blue-dot {
+    background: radial-gradient(rgba(0, 0, 0, .3) 15%, transparent 16%) 0 0, radial-gradient(rgba(0, 0, 0, .3) 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255, 255, 255, .1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255, 255, 255, .1) 15%, transparent 20%) 8px 9px;
+    background-color: rgba(0, 0, 0, 0);
+    background-size: auto, auto, auto, auto;
+    background-color: #06377B;
+    background-size: 16px 16px;
+}
+
+#home_prod_box .col-md-4 {
+    text-align: center;
+}
+
+#home_prod_box .col-md-4 a {
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, .3);
+    display: block;
+    background: #06377B;
+    color: #ffffff;
+}
+
+#home_prod_box .col-md-4 a:hover {
+    text-decoration: none;
+}
+
+#home_prod_box .col-md-4 .p-2 {
+    height: 120px;
+    background: #ccc;
+    text-align: center;
+    background-size: cover !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    display: block !important;
+}
+
+#home_prod_box .col-md-4 h4 {
+    padding: 20px;
+}
+
+#home_compromiso {
+    background: url('./images/compromise.jpg');
+    background: linear-gradient(45deg, rgba(0, 0, 0, .0), rgba(0, 0, 0, .4), rgba(0, 0, 0, .4), rgba(0, 0, 0, .0)), url('./images/compromise.jpg');
+    color: #ffffff;
+    padding: 15% 0%;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    text-align: center;
+}
+
+#title_retilab {
+    background: url('./images/avenida.jpg');
+    background: linear-gradient(45deg, rgba(0, 0, 0, .0), rgba(0, 0, 0, .4), rgba(0, 0, 0, .4), rgba(0, 0, 0, .0)), url('./images/avenida.jpg');
+    color: #ffffff;
+    padding: 5% 0%;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    text-align: center;
+}
+
+#title_estudio {
+    background: linear-gradient(45deg, rgba(0, 0, 0, .0), rgba(0, 0, 0, .4), rgba(0, 0, 0, .4), rgba(0, 0, 0, .0)), url('./images/estudio_fotometrico_2.png');
+    background: url('./images/estudio_fotometrico_2.png');
+    color: #ffffff;
+    padding: 10% 0%;
+    background-attachment: fixed;
+    background-position: bottom center;
+    background-size: cover;
+    text-align: center;
+}
+
+#title_why_led {
+    background: url('./images/eco_1.jpg');
+    background: linear-gradient(45deg, rgba(0, 0, 0, .0), rgba(0, 0, 0, .4), rgba(0, 0, 0, .4), rgba(0, 0, 0, .0)), url('./images/eco_1.jpg');
+    color: #ffffff;
+    padding: 5% 0%;
+    background-attachment: fixed;
+    background-position: bottom center;
+    background-size: cover;
+    text-align: center;
+}
+
+#title_asesoria {
+    background: linear-gradient(45deg, rgba(0, 0, 0, .0), rgba(0, 0, 0, .4), rgba(0, 0, 0, .4), rgba(0, 0, 0, .0)), url('./images/light_cameo.jpg');
+    background: url('./images/light_cameo.jpg');
+    color: #ffffff;
+    padding: 10% 0%;
+    background-attachment: fixed;
+    background-position: top center;
+    background-size: cover;
+    text-align: center;
+}
