@@ -3,7 +3,6 @@
     include ('./layout/jumbotrom.php');
     include ('./layout/nav.php');
 ?>
-    
     <div class="container-fluid blue-dot">
         <div class="container-fluid">
             <div class="row pt-5 pb-5">
@@ -86,6 +85,25 @@ con los requisitos que son importantes para usted y su empresa.</p>
                         <h4>Tubo LED 18W</h4>
                     </a>
                 </div>
+                <div id="home_prod_7" class="col-md-4 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
+                    <a href="./productos_iluminacion_7.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_7.png');"></div>
+                        <h4>Lampara Solar Exterior</h4>
+                    </a>
+                </div>
+                <div id="home_prod_8" class="col-md-4 mb-4" data-aos="zoom-in-up" data-aos-delay="200">
+                    <a href="./productos_iluminacion_8.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_8.png');"></div>
+                        <h4>LED Luminaria Exterior IP</h4>
+                    </a>
+                </div>
+                <div id="home_prod_9" class="col-md-4 mb-4" data-aos="zoom-in-up" data-aos-delay="300">
+                    <a href="./productos_iluminacion_9.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_9.png');"></div>
+                        <h4>IV High Bay Interior</h4>
+                    </a>
+                </div>
+
             </div>
         </div>
     </div>
@@ -94,17 +112,14 @@ con los requisitos que son importantes para usted y su empresa.</p>
     $('#nav_inicio').addClass('active');
     var home_prod_box_width = $('#home_prod_box .col-md-4 .p-2').width() * .75;
     $('#home_prod_box .col-md-4 .p-2').height(home_prod_box_width);
-
     if ($( window ).width() > 678 ) {
         var three_home_p =  $('#three_home_p').height();
         $('.three-box p').height(three_home_p);
     }
-
     $( window ).scroll(function() {
       //  $('header').css('display', 'none');
     });
 </script>
-
 <?php
     // FOOTER
     include ('./layout/footer.php');

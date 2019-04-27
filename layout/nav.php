@@ -18,20 +18,30 @@
                     Productos
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="./asesoria.php">Asesoría</a>
+                        <a class="dropdown-item" href="./productos_iluminacion_1.php">Iluminación Exterior Público</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_2.php">Iluminación Exterior FLOOD</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_3.php">Poste Exterior</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_4.php">Iluminación Exterior Canopy</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_5.php">Iluminación Exterior Non-Linear</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_6.php">Tubo LED 18W T802-18</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_7.php">Lampara Solar de Iluminación Exterior</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_8.php">LED Luminaria Exterior IP</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_9.php">IV High Bay Interior</a> 
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a id="nav_productos" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Asesoría
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="./asesoria.php">Asesoría LEDIGCO</a>
                         <a class="dropdown-item" href="./why_led.php">LED Blitz</a>
-                        <a class="dropdown-item" href="./retilap.php">Norma RETILAP</a>
-                        <a class="dropdown-item" href="./estudio-fotometrico.php">Estudio Fotométrico</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="./productos_iluminacion_1.php">Iluminación</a>
-                        
-                        
+                        <a class="dropdown-item" href="./retilap.php">Norma RETILAP</a>                      
                     </div>
                 </li>
                 <li class="nav-item">
                     <a id="nav_contactos" class="nav-link" href="./contactos.php">Contacto <span class="sr-only">(current)</span></a>
                 </li>
-
             </ul>
         </div>
     </nav>
