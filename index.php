@@ -46,7 +46,7 @@ con los requisitos que son importantes para usted y su empresa.</p>
             Estamos comprometidos con el medio ambiente
         </h1>
     </div>
-    <div style="background: #f9f9f9">
+    <div id="productos-premium" style="background: #f9f9f9">
         <div class="container pt-5 pb-5">
             <h1>Productos Premium</h1>
             <div id="home_prod_box" class="row">
@@ -115,9 +115,44 @@ con los requisitos que son importantes para usted y su empresa.</p>
         </div>
     </div>
     <!-- STANDAR -->
-    <div style="background: #e1e1e1">
+    <div id="productos-estandar" style="background: #e1e1e1">
         <div class="container pt-5 pb-5">
             <h1>Productos Estandar</h1>
+            <div id="home_prod_box_standar" class="row">
+                <div id="home_prod_1" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
+                    <a href="./productos_standar_1.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_1_standar.png');"></div>
+                        <h4>Lámpara LED Alta Bahia Interior</h4>
+                    </a>
+                </div>
+                <div id="home_prod_2" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="200">
+                <a href="./productos_standar_2.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_2_standar.png');"></div>
+                        <h4>Lámpara Solar Iluminación Exterior STXX-10</h4>
+                    </a>
+                </div>
+                <div id="home_prod_3" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="300">
+                    <a href="./productos_standar_3.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_3_standar.png');"></div>
+                        <h4>Lámpara Solar Iluminación Exterior STXX-39</h4>
+                    </a>
+                </div>
+                <div id="home_prod_4" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
+                    <a href="./productos_standar_4.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_4_standar.png');"></div>
+                        <h4>Lámpara Solar Iluminación Exterior STXX-65</h4>
+                    </a>
+                </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div id="especial-salud" style="background: #f9f9f9">
+        <div class="container pt-5 pb-5">
+            <h1>Especial Salud</h1>
             <div id="home_prod_box_standar" class="row">
                 <div id="home_prod_1" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
                     <a href="./productos_standar_1.php" >

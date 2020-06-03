@@ -13,7 +13,19 @@
                 <li class="nav-item">
                     <a id="nav_quienes_somos" class="nav-link" href="./quienes-somos.php">Quienes somos</a>
                 </li>
+
                 <li class="nav-item dropdown">
+                    <a id="nav_productos" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Productos
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="./index.php#productos-premium">Productos Premium</a> 
+                        <a class="dropdown-item" href="./index.php#productos-estandar">Productos Estándar</a> 
+                        <a class="dropdown-item" href="./index.php#especial-salud">Especial Salud</a> 
+                    </div>
+                </li>
+
+                <!-- <li class="nav-item dropdown">
                     <a id="nav_productos" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Productos Premium
                     </a>
@@ -41,7 +53,7 @@
                         <a class="dropdown-item" href="./productos_standar_4.php">Lámpara Solar Iluminación Exterior STXX-65</a> 
                         <a class="dropdown-item" href="./productos_standar_5.php">BH -Wall Washer</a> 
                     </div>
-                </li>
+                </li> -->
                 <li class="nav-item dropdown">
                     <a id="nav_productos" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Asesoría
