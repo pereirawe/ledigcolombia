@@ -1,0 +1,60 @@
+[11-Jan-2019 16:58:25 America/Bogota] PHP Notice:  Undefined variable: encabezado in /home/ledigc/public_html/mail.php on line 5
+[11-Jan-2019 16:59:39 America/Bogota] PHP Notice:  Undefined variable: encabezado in /home/ledigc/public_html/mail.php on line 5
+[11-Jan-2019 17:02:34 America/Bogota] PHP Notice:  Undefined variable: encabezado in /home/ledigc/public_html/mail.php on line 5
+[11-Jan-2019 17:02:55 America/Bogota] PHP Notice:  Undefined variable: encabezado in /home/ledigc/public_html/mail.php on line 5
+[11-Jan-2019 17:02:57 America/Bogota] PHP Notice:  Undefined variable: encabezado in /home/ledigc/public_html/mail.php on line 5
+[11-Jan-2019 17:43:09 America/Bogota] PHP Warning:  require(Exception.php): failed to open stream: No such file or directory in /home/ledigc/public_html/mail.php on line 54
+[11-Jan-2019 17:43:09 America/Bogota] PHP Fatal error:  require(): Failed opening required 'Exception.php' (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/mail.php on line 54
+[11-Jan-2019 17:44:00 America/Bogota] PHP Warning:  require(/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ledigc/public_html/mail.php on line 54
+[11-Jan-2019 17:44:00 America/Bogota] PHP Fatal error:  require(): Failed opening required '/PHPMailer/Exception.php' (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/mail.php on line 54
+[11-Jan-2019 17:44:03 America/Bogota] PHP Warning:  require(/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ledigc/public_html/mail.php on line 54
+[11-Jan-2019 17:44:03 America/Bogota] PHP Fatal error:  require(): Failed opening required '/PHPMailer/Exception.php' (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/mail.php on line 54
+[11-Jan-2019 17:46:30 America/Bogota] PHP Warning:  require(/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ledigc/public_html/mail.php on line 54
+[11-Jan-2019 17:46:30 America/Bogota] PHP Fatal error:  require(): Failed opening required '/PHPMailer/Exception.php' (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/mail.php on line 54
+[11-Jan-2019 17:46:34 America/Bogota] PHP Warning:  require(/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home/ledigc/public_html/mail.php on line 54
+[11-Jan-2019 17:46:34 America/Bogota] PHP Fatal error:  require(): Failed opening required '/PHPMailer/Exception.php' (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/mail.php on line 54
+[13-Feb-2019 10:19:55 America/Bogota] PHP Warning:  include(./layout/jumbotrom.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:19:55 America/Bogota] PHP Warning:  include(): Failed opening './layout/jumbotrom.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:19:55 America/Bogota] PHP Warning:  include(./layout/nav.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:19:55 America/Bogota] PHP Warning:  include(): Failed opening './layout/nav.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:19:58 America/Bogota] PHP Warning:  include(./layout/jumbotrom.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:19:58 America/Bogota] PHP Warning:  include(): Failed opening './layout/jumbotrom.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:19:58 America/Bogota] PHP Warning:  include(./layout/nav.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:19:58 America/Bogota] PHP Warning:  include(): Failed opening './layout/nav.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:20:01 America/Bogota] PHP Warning:  include(./layout/jumbotrom.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:20:01 America/Bogota] PHP Warning:  include(): Failed opening './layout/jumbotrom.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:20:01 America/Bogota] PHP Warning:  include(./layout/nav.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:20:01 America/Bogota] PHP Warning:  include(): Failed opening './layout/nav.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:20:04 America/Bogota] PHP Warning:  include(./layout/jumbotrom.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:20:04 America/Bogota] PHP Warning:  include(): Failed opening './layout/jumbotrom.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:20:04 America/Bogota] PHP Warning:  include(./layout/nav.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:20:04 America/Bogota] PHP Warning:  include(): Failed opening './layout/nav.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:20:14 America/Bogota] PHP Warning:  include(./layout/jumbotrom.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:20:14 America/Bogota] PHP Warning:  include(): Failed opening './layout/jumbotrom.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:20:14 America/Bogota] PHP Warning:  include(./layout/nav.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:20:14 America/Bogota] PHP Warning:  include(): Failed opening './layout/nav.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:21:08 America/Bogota] PHP Warning:  include(./layout/jumbotrom.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:21:08 America/Bogota] PHP Warning:  include(): Failed opening './layout/jumbotrom.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:21:08 America/Bogota] PHP Warning:  include(./layout/nav.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:21:08 America/Bogota] PHP Warning:  include(): Failed opening './layout/nav.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:21:17 America/Bogota] PHP Warning:  include(./layout/jumbotrom.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:21:17 America/Bogota] PHP Warning:  include(): Failed opening './layout/jumbotrom.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 3
+[13-Feb-2019 10:21:17 America/Bogota] PHP Warning:  include(./layout/nav.php): failed to open stream: No such file or directory in /home/ledigc/public_html/index.php on line 4
+[13-Feb-2019 10:21:17 America/Bogota] PHP Warning:  include(): Failed opening './layout/nav.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/index.php on line 4
+[13-Jul-2019 09:58:08 America/Bogota] PHP Warning:  include(./layout/nav-products-standar.php): failed to open stream: No such file or directory in /home/ledigc/public_html/productos_standar_1.php on line 9
+[13-Jul-2019 09:58:08 America/Bogota] PHP Warning:  include(): Failed opening './layout/nav-products-standar.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/ledigc/public_html/productos_standar_1.php on line 9
+[06-Dec-2019 19:04:15 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[07-Jan-2020 17:43:35 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[16-Jan-2020 13:01:46 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[16-Jan-2020 14:08:43 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[16-Jan-2020 14:08:54 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[24-Jan-2020 10:18:02 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[17-Feb-2020 05:56:37 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[10-Mar-2020 04:06:23 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[26-Mar-2020 23:59:02 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[15-Apr-2020 17:28:42 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[15-Apr-2020 17:28:47 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[17-May-2020 21:57:37 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[26-May-2020 12:13:22 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[26-May-2020 12:13:28 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12
+[26-May-2020 22:37:28 America/Bogota] PHP Notice:  Undefined index: g-recaptcha-response in /home/ledigc/public_html/mail.php on line 12

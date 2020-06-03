@@ -8,4 +8,5 @@
                     <a id="nav_product_7" class="list-group-item list-group-item-action" href="./productos_iluminacion_7.php">Lampara Solar de Iluminación Exterior</a>
                     <a id="nav_product_8" class="list-group-item list-group-item-action" href="./productos_iluminacion_8.php">LED Luminaria Exterior IP</a>
                     <a id="nav_product_9" class="list-group-item list-group-item-action" href="./productos_iluminacion_9.php">IV High Bay Interior</a>
+                    <a id="nav_product_10" class="list-group-item list-group-item-action" href="./productos_iluminacion_10.php">iK Series Luz de Calle</a>
                 </ul>

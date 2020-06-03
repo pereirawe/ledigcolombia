@@ -1,9 +1,8 @@
 <?php
     include ('./layout/header.php');
-    include ('./layout/jumbotrom.php');
+    // include ('./layout/jumbotrom.php');
     include ('./layout/nav.php');
 ?>
-    
     <div class="container-fluid blue-dot">
         <div class="container-fluid">
             <div class="row pt-5 pb-5">
@@ -49,43 +48,104 @@ con los requisitos que son importantes para usted y su empresa.</p>
     </div>
     <div style="background: #f9f9f9">
         <div class="container pt-5 pb-5">
+            <h1>Productos Premium</h1>
             <div id="home_prod_box" class="row">
-                <div id="home_prod_1" class="col-md-4 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
+                <div id="home_prod_1" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
                     <a href="./productos_iluminacion_1.php" >
                         <div class="p-2" style="background: url('./images/home_prod_1.png');"></div>
                         <h4>Iluminación Exterior Publico</h4>
                     </a>
                 </div>
-                <div id="home_prod_2" class="col-md-4 mb-4" data-aos="zoom-in-up" data-aos-delay="200">
+                <div id="home_prod_2" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="200">
                 <a href="./productos_iluminacion_2.php" >
                         <div class="p-2" style="background: url('./images/home_prod_2.png');"></div>
                         <h4>Iluminación Exterior FLOOD</h4>
                     </a>
                 </div>
-                <div id="home_prod_3" class="col-md-4 mb-4" data-aos="zoom-in-up" data-aos-delay="300">
+                <div id="home_prod_3" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="300">
                     <a href="./productos_iluminacion_3.php" >
                         <div class="p-2" style="background: url('./images/home_prod_3.png');"></div>
                         <h4>Poste Exterior</h4>
                     </a>
                 </div>
-                <div id="home_prod_4" class="col-md-4 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
+                <div id="home_prod_4" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
                     <a href="./productos_iluminacion_4.php" >
                         <div class="p-2" style="background: url('./images/home_prod_4.png');"></div>
                         <h4>Iluminación Exterior Canopy</h4>
                     </a>
                 </div>
-                <div id="home_prod_5" class="col-md-4 mb-4" data-aos="zoom-in-up" data-aos-delay="200">
+                <div id="home_prod_5" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="200">
                     <a href="./productos_iluminacion_5.php" >
                         <div class="p-2" style="background: url('./images/home_prod_5.png');"></div>
                         <h4>Iluminación Non-Linear</h4>
                     </a>
                 </div>
-                <div id="home_prod_6" class="col-md-4 mb-4" data-aos="zoom-in-up" data-aos-delay="300">
+                <div id="home_prod_6" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="300">
                     <a href="./productos_iluminacion_6.php" >
                         <div class="p-2" style="background: url('./images/home_prod_6.png');"></div>
                         <h4>Tubo LED 18W</h4>
                     </a>
                 </div>
+                <div id="home_prod_7" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
+                    <a href="./productos_iluminacion_7.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_7.png');"></div>
+                        <h4>Lampara Solar Exterior</h4>
+                    </a>
+                </div>
+                <div id="home_prod_8" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="200">
+                    <a href="./productos_iluminacion_8.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_8.png');"></div>
+                        <h4>LED Luminaria Exterior IP</h4>
+                    </a>
+                </div>
+                <div id="home_prod_9" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="300">
+                    <a href="./productos_iluminacion_9.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_9.png');"></div>
+                        <h4>IV High Bay Interior</h4>
+                    </a>
+                </div>
+                <div id="home_prod_10" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
+                    <a href="./productos_iluminacion_10.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_10.png');"></div>
+                        <h4>iK Series Luz de Calle</h4>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- STANDAR -->
+    <div style="background: #e1e1e1">
+        <div class="container pt-5 pb-5">
+            <h1>Productos Estandar</h1>
+            <div id="home_prod_box_standar" class="row">
+                <div id="home_prod_1" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
+                    <a href="./productos_standar_1.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_1_standar.png');"></div>
+                        <h4>Lámpara LED Alta Bahia Interior</h4>
+                    </a>
+                </div>
+                <div id="home_prod_2" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="200">
+                <a href="./productos_standar_2.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_2_standar.png');"></div>
+                        <h4>Lámpara Solar Iluminación Exterior STXX-10</h4>
+                    </a>
+                </div>
+                <div id="home_prod_3" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="300">
+                    <a href="./productos_standar_3.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_3_standar.png');"></div>
+                        <h4>Lámpara Solar Iluminación Exterior STXX-39</h4>
+                    </a>
+                </div>
+                <div id="home_prod_4" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
+                    <a href="./productos_standar_4.php" >
+                        <div class="p-2" style="background: url('./images/home_prod_4_standar.png');"></div>
+                        <h4>Lámpara Solar Iluminación Exterior STXX-65</h4>
+                    </a>
+                </div>
+
+                </div>
+
             </div>
         </div>
     </div>
@@ -95,16 +155,17 @@ con los requisitos que son importantes para usted y su empresa.</p>
     var home_prod_box_width = $('#home_prod_box .col-md-4 .p-2').width() * .75;
     $('#home_prod_box .col-md-4 .p-2').height(home_prod_box_width);
 
+    var home_prod_standar_box_width = $('#home_prod_box_standar .col-md-4 .p-2').width() * .75;
+    $('#home_prod_box_standar .col-md-4 .p-2').height(home_prod_standar_box_width);
+
     if ($( window ).width() > 678 ) {
         var three_home_p =  $('#three_home_p').height();
         $('.three-box p').height(three_home_p);
     }
-
     $( window ).scroll(function() {
       //  $('header').css('display', 'none');
     });
 </script>
-
 <?php
     // FOOTER
     include ('./layout/footer.php');

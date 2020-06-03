@@ -5,7 +5,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-3 blue-dot pt-3 pb-3">
-                <h2 style="color:#ffffff;">Menu de Productos</h2>
+                <h2 style="color:#ffffff;">Productos Premium</h2>
                 <?php include ('./layout/nav-products.php'); ?>
             </div>
             <div class="col-md-9 pt-3 pb-5">

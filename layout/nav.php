@@ -15,23 +15,56 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a id="nav_productos" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Productos
+                    Productos Premium
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="./asesoria.php">Asesoría</a>
+                        <a class="dropdown-item" href="./productos_iluminacion_1.php">Iluminación Exterior Público</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_2.php">Iluminación Exterior FLOOD</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_3.php">Poste Exterior</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_4.php">Iluminación Exterior Canopy</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_5.php">Iluminación Exterior Non-Linear</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_6.php">Tubo LED 18W T802-18</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_7.php">Lampara Solar de Iluminación Exterior</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_8.php">LED Luminaria Exterior IP</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_9.php">IV High Bay Interior</a> 
+                        <a class="dropdown-item" href="./productos_iluminacion_10.php">iK Series Luz de Calle</a> 
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a id="nav_productos_standar" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Productos Estandar
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="./productos_standar_1.php">Lámpara LED Alta Bahia Interior</a> 
+                        <a class="dropdown-item" href="./productos_standar_2.php">Lámpara Solar Iluminación Exterior STXX-10</a> 
+                        <a class="dropdown-item" href="./productos_standar_3.php">Lámpara Solar Iluminación Exterior STXX-39</a> 
+                        <a class="dropdown-item" href="./productos_standar_4.php">Lámpara Solar Iluminación Exterior STXX-65</a> 
+                        <a class="dropdown-item" href="./productos_standar_5.php">BH -Wall Washer</a> 
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a id="nav_productos" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Asesoría
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="./asesoria.php">Asesoría LEDIGCO</a>
                         <a class="dropdown-item" href="./why_led.php">LED Blitz</a>
-                        <a class="dropdown-item" href="./retilap.php">Norma RETILAP</a>
-                        <a class="dropdown-item" href="./estudio-fotometrico.php">Estudio Fotométrico</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="./productos_iluminacion_1.php">Iluminación</a>
-                        
-                        
+                        <a class="dropdown-item" href="./retilap.php">Norma RETILAP</a>                      
                     </div>
                 </li>
                 <li class="nav-item">
                     <a id="nav_contactos" class="nav-link" href="./contactos.php">Contacto <span class="sr-only">(current)</span></a>
                 </li>
-
+                <li class="nav-item">
+                    <a
+                        id=""
+                        class="nav-link"
+                        href="https://www.facebook.com/ledigcolombia"
+                        target="_blank"
+                    >
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                </li>
             </ul>
         </div>
     </nav>

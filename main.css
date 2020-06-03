@@ -1,29 +1,29 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 body {
     font-family: 'Roboto', sans-serif;
-    font-size: 110%;
+    font-size: 100%;
     font-weight: 300;
-    line-height: 1.75;
+    line-height: 1.5;
 }
 
 p {
-    font-size: 27px;
+    /* font-size: 27px; */
 }
 
 table {
-    font-size: 22px;
+    /* font-size: 22px; */
 }
 
 ol,
 ul {
-    font-size: 22px;
+    /* font-size: 22px; */
 }
 
 header {
     min-height: 100vh;
     background: url('./images/baylights.jpeg');
     background: linear-gradient(45deg, rgba(0, 0, 0, .0), rgba(0, 0, 0, .4), rgba(0, 0, 0, .4), rgba(0, 0, 0, .0)), url('./images/baylights.jpeg');
-    background: linear-gradient(45deg, rgba(0, 31, 140, .5), rgba(0, 169, 42, .5), rgba(239, 178, 0, .5), rgba(255, 14, 0, .5)), url('./images/baylights.jpeg');
+    background: linear-gradient(45deg, rgba(6, 55, 123, .5), rgba(0, 169, 42, .5), rgba(239, 178, 0, .5), rgba(255, 14, 0, .5)), url('./images/baylights.jpeg');
     background: linear-gradient(45deg, rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url('./images/baylights.jpeg');
     background: url('./images/baylights.jpeg');
     background-size: cover;
@@ -50,7 +50,7 @@ header {
 #jumbotrom_title h1 {
     text-shadow: 3px 3px 20px rgba(0, 0, 0, .3);
     color: #ffffff;
-    color: rgba(0, 31, 140, 1);
+    color: rgba(6, 55, 123, 1);
     ;
 }
 
@@ -113,7 +113,7 @@ nav img {
 }
 
 footer {
-    background: rgba(0, 31, 140, 1);
+    background: rgba(6, 55, 123, 1);
     color: #ffffff;
 }
 
@@ -124,24 +124,31 @@ footer {
     background-color: #06377B;
     background-size: 16px 16px;
 }
+.orange-dot {
+    background: radial-gradient(rgba(0, 0, 0, .3) 15%, transparent 16%) 0 0, radial-gradient(rgba(0, 0, 0, .3) 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255, 255, 255, .1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255, 255, 255, .1) 15%, transparent 20%) 8px 9px;
+    background-color: rgba(0, 0, 0, 0);
+    background-size: auto, auto, auto, auto;
+    background-color: #F60;
+    background-size: 16px 16px;
+}
 
-#home_prod_box .col-md-4 {
+#home_prod_box .col-md-3 , #home_prod_box_standar .col-md-3 {
     text-align: center;
 }
 
-#home_prod_box .col-md-4 a {
+#home_prod_box .col-md-3 a , #home_prod_box_standar .col-md-3 a {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, .3);
     display: block;
     background: #06377B;
     color: #ffffff;
 }
 
-#home_prod_box .col-md-4 a:hover {
+#home_prod_box .col-md-3 a:hover, #home_prod_box_standar .col-md-3 a:hover {
     text-decoration: none;
 }
 
-#home_prod_box .col-md-4 .p-2 {
-    height: 120px;
+#home_prod_box .col-md-3 .p-2, #home_prod_box_standar .col-md-3 .p-2 {
+    height: 200px;
     background: #ccc;
     text-align: center;
     background-size: cover !important;
@@ -150,7 +157,7 @@ footer {
     display: block !important;
 }
 
-#home_prod_box .col-md-4 h4 {
+#home_prod_box .col-md-3 h4, #home_prod_box_standar .col-md-3 h4 {
     padding: 20px;
 }
 

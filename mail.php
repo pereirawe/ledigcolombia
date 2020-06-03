@@ -4,6 +4,23 @@
     require './PHPMailer/Exception.php';
     require './PHPMailer/PHPMailer.php';
     require './PHPMailer/SMTP.php';
+
+
+
+
+$secretKey  = "6Ld-TsUUAAAAALwUkMDQpb45r24OzAF8VkaIMo4h";
+$responseKey = $_POST['g-recaptcha-response'];
+$UserIP = $_SERVER['REMOTE_ADDR'];
+
+$url = "https://www.google.com/recaptcha/api/siteverify?secret=$secretKey&response=$responseKey&remoteip=$UserIP";
+$response = file_get_contents($url);
+
+$validacionResponse = json_decode($response);
+
+if ($validacionResponse->success == true)
+  {
+
+
 	if(isset($_POST['submit'])) {
 		$nombre = $_POST['nombre'];
 	    $telephone = $_POST['telephone'];
@@ -70,4 +87,12 @@
         window.location.replace('http://ledigcolombia.com');
     </script>";
     // header('Location: ./');
+
+
+  }else{
+
+
+    header("Location:./contactos.php?error=1");   
+  }
+
 ?>
