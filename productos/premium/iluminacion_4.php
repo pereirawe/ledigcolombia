@@ -1,16 +1,19 @@
 <?php
-    include ('./layout/header.php');
-    include ('./layout/nav.php');
+    include ('../../layout/header.php');
+    include ('../../layout/nav.php');
+
+    $urlPdf = '4 FICHA TECNICA Iluminación Exterior Canopy - CA1.pdf';
+
 ?>
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-3 blue-dot pt-3 pb-3">
                 <h2 style="color:#ffffff;">Productos Premium</h2>
-                <?php include ('./layout/nav-products.php'); ?>
+                <?php include ('../../layout/nav-products.php'); ?>
             </div>
             <div class="col-md-9 pt-3 pb-5">
                 <h2>Iluminación Exterior Canopy - CA1 LED BLITZ</h2>
-                <img src="./images/4_iluminacion_exterior_canopy.png" width="100%">
+                <embed id="pdf_embed" src="<?= $httpHost ?>pdf/<?= urldecode($urlPdf)?>" width="100%" height="550"  type="application/pdf">
                 <div class="row">
                 <div class="col-md-3">
                         <h4>Sistema óptico:</h4>
@@ -43,7 +46,7 @@
                             <li>CRI/IRC: Disponible a 80 opcional</li>
                         </ul>
                     </div>
-                    <a href="https://ledigcolombia.com/pdf/4%20FICHA%20TECNICA%20Iluminaci%C3%B3n%20Exterior%20Canopy%20-%20CA1.pdf" type="button" class="btn btn-primary ml-auto mr-4" target="_new">Descargar Ficha Tecnica.PDF</a>
+                    <a href="<?= $httpHost ?>pdf/<?= urldecode($urlPdf)?>" type="button" class="btn btn-primary ml-auto mr-4" target="_new">Descargar Ficha Tecnica.PDF</a>                    
                 </div>
 
             </div>
@@ -56,5 +59,5 @@
 </script>
 <?php
     // FOOTER
-    include ('./layout/footer.php');
+    include ('../../layout/footer.php');
 ?>

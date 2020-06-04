@@ -1,12 +1,12 @@
 <?php
-    include ('./layout/header.php');
-    include ('./layout/nav.php');
+    include ('../../layout/header.php');
+    include ('../../layout/nav.php');
 ?>
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-3 orange-dot pt-3 pb-3">
                 <h2 style="color:#ffffff;">Productos Estandar</h2>
-                <?php include ('./layout/nav-products-standar.php'); ?>
+                <?php include ('../../layout/nav-products-standar.php'); ?>
             </div>
             <div class="col-md-9 pt-3 pb-5">
                 <h2>BH -Wall Washer</h2>
@@ -27,5 +27,5 @@
 </script>
 <?php
     // FOOTER
-    include ('./layout/footer.php');
+    include ('../../layout/footer.php');
 ?>
