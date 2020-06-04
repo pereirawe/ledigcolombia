@@ -114,12 +114,12 @@ con los requisitos que son importantes para usted y su empresa.</p>
                     </a>
                 </div>
 
-                <div id="home_prod_11" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
+                <!-- <div id="home_prod_11" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
                     <a href="./productos/premium/iluminacion_11.php" >
                         <div class="p-2" style="background: url('./images/home_prod_11.png');"></div>
                         <h4>iK Series Luz de Calle</h4>
                     </a>
-                </div>
+                </div> -->
 
             </div>
         </div>
