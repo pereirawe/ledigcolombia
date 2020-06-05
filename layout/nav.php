@@ -77,6 +77,16 @@
                         <i class="fab fa-facebook-f"></i>
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a
+                        id=""
+                        class="nav-link"
+                        href="https://www.youtube.com/channel/UCCKOO0f8I6KjBWIJSA1LJYA"
+                        target="_blank"
+                    >
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                </li>
             </ul>
         </div>
     </nav>
