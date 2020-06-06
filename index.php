@@ -2,6 +2,7 @@
     include ('./layout/header.php');
     // include ('./layout/jumbotrom.php');
     include ('./layout/nav.php');
+    include ('./layout/banner.php');
 
     
 
