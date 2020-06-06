@@ -21,7 +21,7 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="<?= $httpHost ?>index.php#productos-premium">Productos Premium</a> 
                         <a class="dropdown-item" href="<?= $httpHost ?>index.php#productos-estandar">Productos Estándar</a> 
-                        <a class="dropdown-item" href="<?= $httpHost ?>index.php#sanitizacion">Especial Salud</a> 
+                        <a class="dropdown-item" href="<?= $httpHost ?>index.php#sanitizacion">Sanitización</a> 
                     </div>
                 </li>
 
