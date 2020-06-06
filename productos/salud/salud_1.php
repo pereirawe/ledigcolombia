@@ -9,7 +9,7 @@
                 <?php include ('../../layout/nav-products-salud.php'); ?>
             </div>
             <div class="col-md-9 pt-3 pb-5">
-                <h2>Lámpara de esterilización y desinfección Rayos UV + Ozono</h2>
+                <h2>Lámpara Rayos UV + Ozono</h2>
                 <div class="row">
                     <div class="col-md-12">
                         <embed id="pdf_embed" src="<?= $httpHost ?>pdf/<?= urldecode('Brochure Lámpara Esterilizadora de UV y Ozono LED BLITZ por LEDIGCO.pdf')?>" width="100%" height="550"  type="application/pdf">
