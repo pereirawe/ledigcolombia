@@ -167,9 +167,9 @@ con los requisitos que son importantes para usted y su empresa.</p>
         </div>
     </div>
 
-    <div id="especial-salud" style="background: #f9f9f9">
+    <div id="sanitizacion" style="background: #f9f9f9">
         <div class="container pt-5 pb-5">
-            <h1>Especial Salud</h1>
+            <h1>Sanitización</h1>
             <div id="home_prod_box_standar" class="row">
                 <div id="home_prod_1" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
                     <a href="<?= $httpHost ?>productos/salud/salud_1.php" >
