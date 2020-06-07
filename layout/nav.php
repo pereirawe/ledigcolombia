@@ -59,13 +59,13 @@
                     Asesoría
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="./asesoria.php">Asesoría LEDIGCO</a>
-                        <a class="dropdown-item" href="./why_led.php">LED Blitz</a>
-                        <a class="dropdown-item" href="./retilap.php">Norma RETILAP</a>                      
+                        <a class="dropdown-item" href="<?= $httpHost ?>asesoria.php">Asesoría LEDIGCO</a>
+                        <a class="dropdown-item" href="<?= $httpHost ?>why_led.php">LED Blitz</a>
+                        <a class="dropdown-item" href="<?= $httpHost ?>retilap.php">Norma RETILAP</a>                      
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a id="nav_contactos" class="nav-link" href="./contactos.php">Contacto <span class="sr-only">(current)</span></a>
+                    <a id="nav_contactos" class="nav-link" href="<?= $httpHost ?>contactos.php">Contacto <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a
