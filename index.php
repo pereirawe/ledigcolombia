@@ -57,7 +57,7 @@ con los requisitos que son importantes para usted y su empresa.</p>
                 <div id="home_prod_1" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
                     <a href="./productos/premium/iluminacion_1.php" >
                         <div class="p-2" style="background: url('./images/home_prod_1.png');"></div>
-                        <h4>Iluminación Exterior Publico</h4>
+                        <h4>Iluminación Exterior Público</h4>
                     </a>
                 </div>
                 <div id="home_prod_2" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="200">

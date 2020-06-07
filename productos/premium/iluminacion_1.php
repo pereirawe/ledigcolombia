@@ -2,7 +2,7 @@
     include ('../../layout/header.php');
     include ('../../layout/nav.php');
 
-    $urlPdf = '1 FICHA TECNICA Iluminación Exterior Publico - PA LED BLITZ.pdf';
+    $urlPdf = '1 FICHA TECNICA Iluminación Exterior Público - PA LED BLITZ.pdf';
 
 ?>
     <div class="container-fluid">
