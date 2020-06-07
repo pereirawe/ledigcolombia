@@ -172,8 +172,8 @@ con los requisitos que son importantes para usted y su empresa.</p>
             <h1>Sanitización</h1>
             <div id="home_prod_box_standar" class="row">
                 <div id="home_prod_1" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
-                    <a href="<?= $httpHost ?>productos/salud/salud_1.php" >
-                        <div class="p-2" style="background: url('<?= $httpHost ?>images/home_prod_1_salud.png');"></div>
+                    <a href="<?= $httpHost ?>productos/sanitizacion/sanitizacion_1.php" >
+                        <div class="p-2" style="background: url('<?= $httpHost ?>images/home_prod_1_sanitizacion.png');"></div>
                         <h4>Lámpara Rayos UV + Ozono</h4>
                     </a>
                 </div>

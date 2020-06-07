@@ -5,8 +5,8 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-3 orange-dot pt-3 pb-3">
-                <h2 style="color:#ffffff;">Especial Salud</h2>
-                <?php include ('../../layout/nav-products-salud.php'); ?>
+                <h2 style="color:#ffffff;">Sanitización</h2>
+                <?php include ('../../layout/nav-products-sanitizacion.php'); ?>
             </div>
             <div class="col-md-9 pt-3 pb-5">
                 <h2>Lámpara Rayos UV + Ozono</h2>
