@@ -44,7 +44,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a id="nav_productos_standar" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Productos Estandar
+                    Productos Estándar
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="./productos_standar_1.php">Lámpara LED Alta Bahia Interior</a> 

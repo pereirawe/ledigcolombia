@@ -128,7 +128,7 @@ con los requisitos que son importantes para usted y su empresa.</p>
     <!-- STANDAR -->
     <div id="productos-estandar" style="background: #e1e1e1">
         <div class="container pt-5 pb-5">
-            <h1>Productos Estandar</h1>
+            <h1>Productos Estándar</h1>
             <div id="home_prod_box_standar" class="row">
                 <div id="home_prod_1" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
                     <a href="./productos/estandar/standar_1.php" >

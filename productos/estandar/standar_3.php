@@ -5,7 +5,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-3 orange-dot pt-3 pb-3">
-                <h2 style="color:#ffffff;">Productos Estandar</h2>
+                <h2 style="color:#ffffff;">Productos Estándar</h2>
                 <?php include ('../../layout/nav-products-standar.php'); ?>
             </div>
             <div class="col-md-9 pt-3 pb-5">
