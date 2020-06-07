@@ -9,4 +9,5 @@
                     <a id="nav_product_8" class="list-group-item list-group-item-action" href="<?= $httpHost ?>productos/premium/iluminacion_8.php">LED Luminaria Exterior IP</a>
                     <a id="nav_product_9" class="list-group-item list-group-item-action" href="<?= $httpHost ?>productos/premium/iluminacion_9.php">IV High Bay Interior</a>
                     <a id="nav_product_10" class="list-group-item list-group-item-action" href="<?= $httpHost ?>productos/premium/iluminacion_10.php">iK Series Luz de Calle</a>
+                    <a id="nav_product_10" class="list-group-item list-group-item-action" href="<?= $httpHost ?>productos/premium/iluminacion_11.php">HB Iluminación linear</a>
                 </ul>
