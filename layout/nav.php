@@ -24,36 +24,6 @@
                         <a class="dropdown-item" href="<?= $httpHost ?>index.php#sanitizacion">Sanitización</a> 
                     </div>
                 </li>
-
-                <!-- <li class="nav-item dropdown">
-                    <a id="nav_productos" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Productos Premium
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="./productos_iluminacion_1.php">Iluminación Exterior Público</a> 
-                        <a class="dropdown-item" href="./productos_iluminacion_2.php">Iluminación Exterior FLOOD</a> 
-                        <a class="dropdown-item" href="./productos_iluminacion_3.php">Poste Exterior</a> 
-                        <a class="dropdown-item" href="./productos_iluminacion_4.php">Iluminación Exterior Canopy</a> 
-                        <a class="dropdown-item" href="./productos_iluminacion_5.php">Iluminación Exterior Non-Linear</a> 
-                        <a class="dropdown-item" href="./productos_iluminacion_6.php">Tubo LED 18W T802-18</a> 
-                        <a class="dropdown-item" href="./productos_iluminacion_7.php">Lampara Solar de Iluminación Exterior</a> 
-                        <a class="dropdown-item" href="./productos_iluminacion_8.php">LED Luminaria Exterior IP</a> 
-                        <a class="dropdown-item" href="./productos_iluminacion_9.php">IV High Bay Interior</a> 
-                        <a class="dropdown-item" href="./productos_iluminacion_10.php">iK Series Luz de Calle</a> 
-                    </div>
-                </li>
-                <li class="nav-item dropdown">
-                    <a id="nav_productos_standar" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Productos Estándar
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="./productos_standar_1.php">Lámpara LED Alta Bahia Interior</a> 
-                        <a class="dropdown-item" href="./productos_standar_2.php">Lámpara Solar Iluminación Exterior STXX-10</a> 
-                        <a class="dropdown-item" href="./productos_standar_3.php">Lámpara Solar Iluminación Exterior STXX-39</a> 
-                        <a class="dropdown-item" href="./productos_standar_4.php">Lámpara Solar Iluminación Exterior STXX-65</a> 
-                        <a class="dropdown-item" href="./productos_standar_5.php">BH -Wall Washer</a> 
-                    </div>
-                </li> -->
                 <li class="nav-item dropdown">
                     <a id="nav_productos" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Asesoría

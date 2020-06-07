@@ -139,7 +139,7 @@ con los requisitos que son importantes para usted y su empresa.</p>
                 <div id="home_prod_1" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
                     <a href="./productos/estandar/standar_1.php" >
                         <div class="p-2" style="background: url('./images/home_prod_1_standar.png');"></div>
-                        <h4>Lámpara LED Alta Bahia Interior</h4>
+                        <h4>Lámpara LED Alta Bahía Interior</h4>
                     </a>
                 </div>
                 <div id="home_prod_2" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="200">

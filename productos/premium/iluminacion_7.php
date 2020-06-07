@@ -12,7 +12,7 @@
                 <?php include ('../../layout/nav-products.php'); ?>
             </div>
             <div class="col-md-9 pt-3 pb-5">
-                <h2>Lámpara LED Alta Bahia Interior</h2>
+                <h2>Lámpara LED Alta Bahía Interior</h2>
                 <div class="row">
                     <div class="col-md-12">
                         <embed id="pdf_embed" src="<?= $httpHost ?>pdf/<?= urldecode($urlPdf)?>" width="100%" height="550"  type="application/pdf">
