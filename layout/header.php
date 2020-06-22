@@ -28,7 +28,7 @@
     <link rel='shortcut icon' type="image/x-icon" href='<?= $httpHost ?>favicon.png' />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name='description' content='Somos una empresa de iluminación industrial con certificaciónes para el desarrollo de proyectos de iluminación a gran escala..' />
-    <meta property='og:url' content='http://ledigcolombia.com/'>
+    <meta property='og:url' content='https://ledigcolombia.com/'>
     <meta property='og:locale' content='es_ES' />
     <meta property='og:type' content='website' />
     <meta property='og:title' content='LED Industrial Group Colombia' />
