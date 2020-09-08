@@ -9,12 +9,12 @@
                 <?php include ('../../layout/nav-products-sanitizacion.php'); ?>
             </div>
             <div class="col-md-9 pt-3 pb-5">
-                <h2>Lámpara Rayos UV + Ozono</h2>
+                <h2>Lámpara Portatil Rayos UV + Ozono</h2>
                 <div class="row">
                     <div class="col-md-12">
-                        <embed id="pdf_embed" src="<?= $httpHost ?>pdf/<?= urldecode('Sanitizacion 1 Lámpara Esterilizadora de UV y Ozono LED BLITZ por LEDIGCO.pdf')?>" width="100%" height="550"  type="application/pdf">
+                        <embed id="pdf_embed" src="<?= $httpHost ?>pdf/<?= urldecode('Sanitizacion 2 Lámpara Esterilizadora PORTATIL de UV y Ozono.pdf')?>" width="100%" height="550"  type="application/pdf">
                     </div>
-                    <a href="<?= $httpHost ?>pdf/<?= urldecode('Sanitizacion 1 Lámpara Esterilizadora de UV y Ozono LED BLITZ por LEDIGCO.pdf')?>" type="button" class="btn btn-primary ml-auto mr-4" target="_new">Descargar Ficha Tecnica.PDF</a>
+                    <a href="<?= $httpHost ?>pdf/<?= urldecode('Sanitizacion 2 Lámpara Esterilizadora PORTATIL de UV y Ozono.pdf')?>" type="button" class="btn btn-primary ml-auto mr-4" target="_new">Descargar Ficha Tecnica.PDF</a>
                 </div>
 
             </div>
@@ -23,7 +23,7 @@
     </div>
 <script>
     $('#nav_productos_standar').addClass('active')
-    $('#nav_product_1').addClass('active')
+    $('#nav_product_2').addClass('active')
 </script>
 <?php
     // FOOTER
