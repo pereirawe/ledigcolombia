@@ -3,7 +3,7 @@
     include ('./layout/nav.php');
 ?>
     <style>
-        ul{
+        .blue-dot ul{
             font-size: 27px;
         }
         .alert{
@@ -20,8 +20,6 @@
                 </div>
             </div>
     </div>
-
-
     <div id="title_asesoria" class="container-fluid">
     </div>
 
@@ -44,9 +42,6 @@
             </ul>
         </li>
     </ul>
-    
-
-        
                         <div class="alert pt-5 mt-5" role="alert">
                             <b>* ADVERTENCIA:</b> La aplicabilidad del estudio fotométrico conforme a las normas RETIE y RETILAP, solamente podrá ser utilizado en caso de adquirir las luminarias ofrecidas por LEDIGCO, pues dicho estudio está realizado con base en la intensidad y calidad de los productos ofrecidos por nuestra empresa. 
                         </div>
