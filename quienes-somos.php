@@ -26,10 +26,7 @@
                     <img class="logo" src="./images/lg_5.png">
                     <img class="logo" src="./images/lg_1.png">
                 </div>
-                <p>Además, tenemos certificado de conformidad emitido por LENOR Colombia SAS, entidad acreditada por la ONAC (Organismo Nacional de Acreditación de Colombia).</p>
-                    <div style="text-align:center;">
-                        <img class="logo" src="./images/lg_lenor.jpeg" width="100px">
-                    </div>
+                
 
             </div>
             <div class="col-md-2"></div>
