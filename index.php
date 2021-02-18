@@ -136,18 +136,6 @@ con los requisitos que son importantes para usted y su empresa.</p>
         <div class="container pt-5 pb-5">
             <h1>Productos Estándar</h1>
             <div id="home_prod_box_standar" class="row">
-                <div id="home_prod_1" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="100">
-                    <a href="./productos/estandar/standar_1.php" >
-                        <div class="p-2" style="background: url('./images/home_prod_1_standar.png');"></div>
-                        <h4>Lámpara LED Alta Bahía Interior</h4>
-                    </a>
-                </div>
-                <div id="home_prod_2" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="200">
-                <a href="./productos/estandar/standar_2.php" >
-                        <div class="p-2" style="background: url('./images/home_prod_2_standar.png');"></div>
-                        <h4>Lámpara Solar Iluminación Exterior STXX-10</h4>
-                    </a>
-                </div>
                 <div id="home_prod_3" class="col-md-3 mb-4" data-aos="zoom-in-up" data-aos-delay="300">
                     <a href="./productos/estandar/standar_3.php" >
                         <div class="p-2" style="background: url('./images/home_prod_3_standar.png');"></div>
